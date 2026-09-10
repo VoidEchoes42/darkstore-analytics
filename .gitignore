@@ -1,0 +1,33 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.venv
+env/
+*.egg-info/
+dist/
+build/
+
+# Data (regenerate with scripts)
+data/sample_data/*.csv
+data/sample_data/*.db
+
+# Excel cache files
+excel/*.xlsx
+!excel/*.xlsx.template
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
