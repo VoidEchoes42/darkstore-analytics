@@ -31,3 +31,4 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints/
+outputs/hourly_demand.csv
